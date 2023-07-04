@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url("OIP.jpg");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#game-message {
+    font-style: normal; 
+}
+
+button {
+    color: #035327;
+    width: 200px;
+    background: #facb11;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
